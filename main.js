@@ -1,60 +1,60 @@
 console.log('... setup ...');
 
-const data = [
+const netflixdata = [
   {
-    size: 100,
-    color: '#FFDE17',
-  },
-  {
-    size: 210,
-    color: '#FFD520',
-  },
-  {
-    size: 140,
-    color: '#FAB545',
-  },
-  {
-    size: 57,
-    color: '#FFD877',
+    name: 'Netflix',
+    children: [
+      {
+        name: 'TV Shows',
+        children: [
+          {
+            name: "Breaking Bad",
+            size: 40,
+          },
+          {
+            name: "Silicon Valley",
+            size: 60,
+          },
+        ],
+      },
+      {
+        name: 'Movies',
+        children: [
+          {
+            name: "Call me by your name",
+            size: 210,
+          },
+          {
+            name: "Sharknado",
+            size: 120,
+          },
+        ],
+      },
+    ],
   },
 ];
 
-const distance = 160;
-
-// creating an svg within the div with id #d3
-const svg = d3
-  .select('.sky-svg');
-
-const line = svg
-  // using the same svg selection from before and adding a line
-  .append('line')
-    // adding a class attribute for stroke styling (see style.css)
-    .attr('class', 'axis')
-    // and adding line specific attributes to define the line
-    .attr('x1', 10)
-    .attr('y1', 20)
-    .attr('x2', 743) // svg has more or less the width of 753px (viewBox="0 0 753.3 798.3") - we stop 10px before 753
-    .attr('y2', 20);
-  
-svg 
-  // selecting is necessary, but we can add a random selector here ('whatever')
-  // the return value is an empty selection:
-  // https://github.com/d3/d3-selection/blob/v3.0.0/README.md#selectAll
-  // if you ask yourself why:
-  // https://stackoverflow.com/questions/17452508/what-is-the-point-of-calling-selectall-when-there-are-no-existing-nodes-yet-on-d
-  .selectAll('whatever')
-  .data(data)
-  .enter()
-  .append('circle')
-    .attr('cx', (d, currentIndex) => currentIndex * distance + distance)
-    // is the same as:
-    // .attr('cx', function(d, currentIndex) { return currentIndex * distance + distance })
-    // but a bit more new school
-    .attr('cy', (d) =>  300)
-    .attr('r', (d) => d.size / 2)
-    .attr('fill', (d) => d.color);
+console.log(netflixdata);
 
 
+
+let sunviz = Sunburst(netflixdata, {
+  value: d => d.size, // size of each node (file); null for internal nodes (folders)
+  label: d => d.name, // display name for each cell
+  title: (d, n) => `${n.ancestors().reverse().map(d => d.data.name).join(".")}\n${n.value.toLocaleString("en")}`, // hover text
+  link: (d, n) => n.children
+    ? `https://github.com/prefuse/Flare/tree/master/flare/src/${n.ancestors().reverse().map(d => d.data.name).join("/")}`
+    : `https://github.com/prefuse/Flare/blob/master/flare/src/${n.ancestors().reverse().map(d => d.data.name).join("/")}.as`,
+  width: 300,
+  height: 300
+})
+
+
+
+document.getElementById("d3").append(sunviz);
+
+
+// taken from observablehq as starting point    
 // Copyright 2021 Observable, Inc.
 // Released under the ISC license.
 // https://observablehq.com/@d3/sunburst
@@ -120,11 +120,13 @@ function Sunburst(data, { // data is either tabular (array of objects) or hierar
   // Compute the partition layout. Note polar coordinates: x is angle and y is radius.
   d3.partition().size([2 * Math.PI, radius])(root);
 
+  /*
   // Construct a color scale.
   if (color != null) {
     color = d3.scaleSequential([0, root.children.length - 1], color).unknown(fill);
     root.children.forEach((child, i) => child.index = i);
   }
+*/
 
   // Construct an arc generator.
   const arc = d3.arc()
