@@ -1,6 +1,6 @@
 console.log('... setup ...');
 
-const netflixdata = [
+const netflixdata = 
   {
     name: 'Netflix',
     children: [
@@ -31,8 +31,7 @@ const netflixdata = [
         ],
       },
     ],
-  },
-];
+  };
 
 console.log(netflixdata);
 
@@ -45,8 +44,8 @@ let sunviz = Sunburst(netflixdata, {
   link: (d, n) => n.children
     ? `https://github.com/prefuse/Flare/tree/master/flare/src/${n.ancestors().reverse().map(d => d.data.name).join("/")}`
     : `https://github.com/prefuse/Flare/blob/master/flare/src/${n.ancestors().reverse().map(d => d.data.name).join("/")}.as`,
-  width: 300,
-  height: 300
+  width: 800,
+  height: 800
 })
 
 
@@ -120,13 +119,13 @@ function Sunburst(data, { // data is either tabular (array of objects) or hierar
   // Compute the partition layout. Note polar coordinates: x is angle and y is radius.
   d3.partition().size([2 * Math.PI, radius])(root);
 
-  /*
+  
   // Construct a color scale.
   if (color != null) {
     color = d3.scaleSequential([0, root.children.length - 1], color).unknown(fill);
     root.children.forEach((child, i) => child.index = i);
   }
-*/
+
 
   // Construct an arc generator.
   const arc = d3.arc()
