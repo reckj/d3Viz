@@ -100,9 +100,7 @@ let sunviz = Sunburst(netflixdata, {
   height: 800
 })
 
-
-
-document.getElementById("d3").append(sunviz);
+document.getElementById("d3").append(sunviz); //append generated svg to DOM
 
 
 // taken from observablehq as starting point    
