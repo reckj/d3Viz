@@ -8,12 +8,30 @@ const netflixdata =
         name: 'TV Shows',
         children: [
           {
-            name: "Breaking Bad",
-            size: 40,
+            name: 'Breaking Bad',
+            children: [
+              {
+                name: 'Season 1',
+                size: 12,
+              },
+              {
+                name: 'Season 2',
+                size: 14,
+              }
+            ],
           },
           {
-            name: "Silicon Valley",
-            size: 60,
+            name: 'Silicon Valley',
+            children: [
+              {
+                name: 'Season 1',
+                size: 16,
+              },
+              {
+                name: 'Season 2',
+                size: 18,
+              }
+            ],
           },
         ],
       },
@@ -35,7 +53,41 @@ const netflixdata =
 
 console.log(netflixdata);
 
+/* ideas on how to load in the json dataset and modify it to make it work for the required datastructure
+let typeArray = [];
+let yearArray = [];
+let sizeArray = [];
 
+builderfunction1
+
+for each 
+
+if (!yearsarray[item.year]) -> initialisiere leeres array
+array[item.year[]]
+
+builderfunction2 -> name size -> eine iteration -> named index array -> array pro jahr mit filmen drinne
+
+const netflixData = {
+  name: 'Netflix',
+  children: ,
+};
+
+//builderfunction für objekt mit name children -> generel
+// für jedes nochmal ein data object welches leere children initialisiert hat
+
+
+//load json file
+
+//for each through array
+
+//fill up object with json data
+
+//creator pattern
+
+//objecttemplate push into array
+
+// layers: netflix -> movies/tvshows -> years -> seasonamout/length 
+*/
 
 let sunviz = Sunburst(netflixdata, {
   value: d => d.size, // size of each node (file); null for internal nodes (folders)

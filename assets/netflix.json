@@ -1,0 +1,2095 @@
+[
+  {
+    "show_id": "s1",
+    "type": "Movie",
+    "title": "Dick Johnson Is Dead",
+    "release_year": 2020,
+    "duration": 90
+  },
+  {
+    "show_id": "s2",
+    "type": "TV Show",
+    "title": "Blood & Water",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s3",
+    "type": "TV Show",
+    "title": "Ganglands",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s4",
+    "type": "TV Show",
+    "title": "Jailbirds New Orleans",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s5",
+    "type": "TV Show",
+    "title": "Kota Factory",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s6",
+    "type": "TV Show",
+    "title": "Midnight Mass",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s7",
+    "type": "Movie",
+    "title": "My Little Pony: A New Generation",
+    "release_year": 2021,
+    "duration": 91
+  },
+  {
+    "show_id": "s8",
+    "type": "Movie",
+    "title": "Sankofa",
+    "release_year": 1993,
+    "duration": 125
+  },
+  {
+    "show_id": "s9",
+    "type": "TV Show",
+    "title": "The Great British Baking Show",
+    "release_year": 2021,
+    "duration": 9
+  },
+  {
+    "show_id": "s10",
+    "type": "Movie",
+    "title": "The Starling",
+    "release_year": 2021,
+    "duration": 104
+  },
+  {
+    "show_id": "s11",
+    "type": "TV Show",
+    "title": "Vendetta: Truth, Lies and The Mafia",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s12",
+    "type": "TV Show",
+    "title": "Bangkok Breaking",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s13",
+    "type": "Movie",
+    "title": "Je Suis Karl",
+    "release_year": 2021,
+    "duration": 127
+  },
+  {
+    "show_id": "s14",
+    "type": "Movie",
+    "title": "Confessions of an Invisible Girl",
+    "release_year": 2021,
+    "duration": 91
+  },
+  {
+    "show_id": "s15",
+    "type": "TV Show",
+    "title": "Crime Stories: India Detectives",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s16",
+    "type": "TV Show",
+    "title": "Dear White People",
+    "release_year": 2021,
+    "duration": 4
+  },
+  {
+    "show_id": "s17",
+    "type": "Movie",
+    "title": "Europe's Most Dangerous Man: Otto Skorzeny in Spain",
+    "release_year": 2020,
+    "duration": 67
+  },
+  {
+    "show_id": "s18",
+    "type": "TV Show",
+    "title": "Falsa identidad",
+    "release_year": 2020,
+    "duration": 2
+  },
+  {
+    "show_id": "s19",
+    "type": "Movie",
+    "title": "Intrusion",
+    "release_year": 2021,
+    "duration": 94
+  },
+  {
+    "show_id": "s20",
+    "type": "TV Show",
+    "title": "Jaguar",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s21",
+    "type": "TV Show",
+    "title": "Monsters Inside: The 24 Faces of Billy Milligan",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s22",
+    "type": "TV Show",
+    "title": "Resurrection: Ertugrul",
+    "release_year": 2018,
+    "duration": 5
+  },
+  {
+    "show_id": "s23",
+    "type": "Movie",
+    "title": "Avvai Shanmughi",
+    "release_year": 1996,
+    "duration": 161
+  },
+  {
+    "show_id": "s24",
+    "type": "Movie",
+    "title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
+    "release_year": 2021,
+    "duration": 61
+  },
+  {
+    "show_id": "s25",
+    "type": "Movie",
+    "title": "Jeans",
+    "release_year": 1998,
+    "duration": 166
+  },
+  {
+    "show_id": "s26",
+    "type": "TV Show",
+    "title": "Love on the Spectrum",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s27",
+    "type": "Movie",
+    "title": "sara Kanavu",
+    "release_year": 1997,
+    "duration": 147
+  },
+  {
+    "show_id": "s28",
+    "type": "Movie",
+    "title": "Grown Ups",
+    "release_year": 2010,
+    "duration": 103
+  },
+  {
+    "show_id": "s29",
+    "type": "Movie",
+    "title": "Dark Skies",
+    "release_year": 2013,
+    "duration": 97
+  },
+  {
+    "show_id": "s30",
+    "type": "Movie",
+    "title": "Paranoia",
+    "release_year": 2013,
+    "duration": 106
+  },
+  {
+    "show_id": "s31",
+    "type": "Movie",
+    "title": "Ankahi Kahaniya",
+    "release_year": 2021,
+    "duration": 111
+  },
+  {
+    "show_id": "s32",
+    "type": "TV Show",
+    "title": "Chicago Party Aunt",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s33",
+    "type": "TV Show",
+    "title": "Sex Education",
+    "release_year": 2020,
+    "duration": 3
+  },
+  {
+    "show_id": "s34",
+    "type": "TV Show",
+    "title": "Squid Game",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s35",
+    "type": "TV Show",
+    "title": "Tayo and Little Wizards",
+    "release_year": 2020,
+    "duration": 1
+  },
+  {
+    "show_id": "s36",
+    "type": "Movie",
+    "title": "The Father Who Moves Mountains",
+    "release_year": 2021,
+    "duration": 110
+  },
+  {
+    "show_id": "s37",
+    "type": "Movie",
+    "title": "The Stronghold",
+    "release_year": 2021,
+    "duration": 105
+  },
+  {
+    "show_id": "s38",
+    "type": "TV Show",
+    "title": "Angry Birds",
+    "release_year": 2018,
+    "duration": 1
+  },
+  {
+    "show_id": "s39",
+    "type": "Movie",
+    "title": "Birth of the Dragon",
+    "release_year": 2017,
+    "duration": 96
+  },
+  {
+    "show_id": "s40",
+    "type": "TV Show",
+    "title": "Chhota Bheem",
+    "release_year": 2021,
+    "duration": 3
+  },
+  {
+    "show_id": "s41",
+    "type": "TV Show",
+    "title": "He-Man and the Masters of the Universe",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s42",
+    "type": "Movie",
+    "title": "Jaws",
+    "release_year": 1975,
+    "duration": 124
+  },
+  {
+    "show_id": "s43",
+    "type": "Movie",
+    "title": "Jaws 2",
+    "release_year": 1978,
+    "duration": 116
+  },
+  {
+    "show_id": "s44",
+    "type": "Movie",
+    "title": "Jaws 3",
+    "release_year": 1983,
+    "duration": 98
+  },
+  {
+    "show_id": "s45",
+    "type": "Movie",
+    "title": "Jaws: The Revenge",
+    "release_year": 1987,
+    "duration": 91
+  },
+  {
+    "show_id": "s46",
+    "type": "Movie",
+    "title": "My Heroes Were Cowboys",
+    "release_year": 2021,
+    "duration": 23
+  },
+  {
+    "show_id": "s47",
+    "type": "Movie",
+    "title": "Safe House",
+    "release_year": 2012,
+    "duration": 115
+  },
+  {
+    "show_id": "s48",
+    "type": "TV Show",
+    "title": "The Smart Money Woman",
+    "release_year": 2020,
+    "duration": 1
+  },
+  {
+    "show_id": "s49",
+    "type": "Movie",
+    "title": "Training Day",
+    "release_year": 2001,
+    "duration": 122
+  },
+  {
+    "show_id": "s50",
+    "type": "TV Show",
+    "title": "Castle and Castle",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s51",
+    "type": "TV Show",
+    "title": "Dharmakshetra",
+    "release_year": 2014,
+    "duration": 1
+  },
+  {
+    "show_id": "s52",
+    "type": "Movie",
+    "title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+    "release_year": 2002,
+    "duration": 99
+  },
+  {
+    "show_id": "s53",
+    "type": "Movie",
+    "title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+    "release_year": 2003,
+    "duration": 99
+  },
+  {
+    "show_id": "s54",
+    "type": "Movie",
+    "title": "InuYasha the Movie 4: Fire on the Mystic Island",
+    "release_year": 2004,
+    "duration": 88
+  },
+  {
+    "show_id": "s55",
+    "type": "Movie",
+    "title": "InuYasha the Movie: Affections Touching Across Time",
+    "release_year": 2001,
+    "duration": 100
+  },
+  {
+    "show_id": "s56",
+    "type": "TV Show",
+    "title": "Nailed It",
+    "release_year": 2021,
+    "duration": 6
+  },
+  {
+    "show_id": "s57",
+    "type": "Movie",
+    "title": "Naruto Shippuden the Movie: Blood Prison",
+    "release_year": 2011,
+    "duration": 102
+  },
+  {
+    "show_id": "s58",
+    "type": "Movie",
+    "title": "Naruto Shippûden the Movie: Bonds",
+    "release_year": 2008,
+    "duration": 93
+  },
+  {
+    "show_id": "s59",
+    "type": "Movie",
+    "title": "Naruto Shippûden the Movie: The Will of Fire",
+    "release_year": 2009,
+    "duration": 96
+  },
+  {
+    "show_id": "s60",
+    "type": "Movie",
+    "title": "Naruto Shippuden: The Movie",
+    "release_year": 2007,
+    "duration": 95
+  },
+  {
+    "show_id": "s61",
+    "type": "Movie",
+    "title": "Naruto Shippuden: The Movie: The Lost Tower",
+    "release_year": 2010,
+    "duration": 85
+  },
+  {
+    "show_id": "s62",
+    "type": "Movie",
+    "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+    "release_year": 2005,
+    "duration": 97
+  },
+  {
+    "show_id": "s63",
+    "type": "Movie",
+    "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+    "release_year": 2006,
+    "duration": 95
+  },
+  {
+    "show_id": "s64",
+    "type": "Movie",
+    "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "release_year": 2004,
+    "duration": 83
+  },
+  {
+    "show_id": "s65",
+    "type": "Movie",
+    "title": "Nightbooks",
+    "release_year": 2021,
+    "duration": 103
+  },
+  {
+    "show_id": "s66",
+    "type": "TV Show",
+    "title": "Numberblocks",
+    "release_year": 2021,
+    "duration": 6
+  },
+  {
+    "show_id": "s67",
+    "type": "TV Show",
+    "title": "Raja Rasoi Aur Anya Kahaniyan",
+    "release_year": 2014,
+    "duration": 1
+  },
+  {
+    "show_id": "s68",
+    "type": "TV Show",
+    "title": "Saved by the Bell",
+    "release_year": 1994,
+    "duration": 9
+  },
+  {
+    "show_id": "s69",
+    "type": "Movie",
+    "title": "Schumacher",
+    "release_year": 2021,
+    "duration": 113
+  },
+  {
+    "show_id": "s70",
+    "type": "TV Show",
+    "title": "Stories by Rabindranath Tagore",
+    "release_year": 2015,
+    "duration": 1
+  },
+  {
+    "show_id": "s71",
+    "type": "TV Show",
+    "title": "Too Hot To Handle: Latino",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s72",
+    "type": "Movie",
+    "title": "A StoryBots Space Adventure",
+    "release_year": 2021,
+    "duration": 13
+  },
+  {
+    "show_id": "s73",
+    "type": "TV Show",
+    "title": "Jack Whitehall: Travels with My Father",
+    "release_year": 2021,
+    "duration": 5
+  },
+  {
+    "show_id": "s74",
+    "type": "Movie",
+    "title": "King of Boys",
+    "release_year": 2018,
+    "duration": 182
+  },
+  {
+    "show_id": "s75",
+    "type": "TV Show",
+    "title": "The World's Most Amazing Vacation Rentals",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s76",
+    "type": "Movie",
+    "title": "You vs. Wild: Out Cold",
+    "release_year": 2021,
+    "duration": 106
+  },
+  {
+    "show_id": "s77",
+    "type": "TV Show",
+    "title": "Yowamushi Pedal",
+    "release_year": 2013,
+    "duration": 1
+  },
+  {
+    "show_id": "s78",
+    "type": "Movie",
+    "title": "Little Singham - Black Shadow",
+    "release_year": 2021,
+    "duration": 48
+  },
+  {
+    "show_id": "s79",
+    "type": "Movie",
+    "title": "Tughlaq Durbar",
+    "release_year": 2020,
+    "duration": 145
+  },
+  {
+    "show_id": "s80",
+    "type": "Movie",
+    "title": "Tughlaq Durbar (Telugu)",
+    "release_year": 2021,
+    "duration": 145
+  },
+  {
+    "show_id": "s81",
+    "type": "Movie",
+    "title": "Firedrake the Silver Dragon",
+    "release_year": 2021,
+    "duration": 93
+  },
+  {
+    "show_id": "s82",
+    "type": "Movie",
+    "title": "Kate",
+    "release_year": 2021,
+    "duration": 106
+  },
+  {
+    "show_id": "s83",
+    "type": "TV Show",
+    "title": "Lucifer",
+    "release_year": 2021,
+    "duration": 6
+  },
+  {
+    "show_id": "s84",
+    "type": "TV Show",
+    "title": "Metal Shop Masters",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s85",
+    "type": "Movie",
+    "title": "Omo Ghetto: the Saga",
+    "release_year": 2020,
+    "duration": 147
+  },
+  {
+    "show_id": "s86",
+    "type": "TV Show",
+    "title": "Pokémon Master Journeys: The Series",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s87",
+    "type": "Movie",
+    "title": "Prey",
+    "release_year": 2021,
+    "duration": 87
+  },
+  {
+    "show_id": "s88",
+    "type": "TV Show",
+    "title": "Titipo Titipo",
+    "release_year": 2019,
+    "duration": 2
+  },
+  {
+    "show_id": "s89",
+    "type": "Movie",
+    "title": "Blood Brothers: Malcolm X & Muhammad Ali",
+    "release_year": 2021,
+    "duration": 96
+  },
+  {
+    "show_id": "s90",
+    "type": "TV Show",
+    "title": "Mighty Raju",
+    "release_year": 2017,
+    "duration": 4
+  },
+  {
+    "show_id": "s91",
+    "type": "Movie",
+    "title": "Paradise Hills",
+    "release_year": 2019,
+    "duration": 95
+  },
+  {
+    "show_id": "s92",
+    "type": "Movie",
+    "title": "The Women and the Murderer",
+    "release_year": 2021,
+    "duration": 92
+  },
+  {
+    "show_id": "s93",
+    "type": "TV Show",
+    "title": "Into the Night",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s94",
+    "type": "Movie",
+    "title": "JJ+E",
+    "release_year": 2021,
+    "duration": 91
+  },
+  {
+    "show_id": "s95",
+    "type": "Movie",
+    "title": "Show Dogs",
+    "release_year": 2018,
+    "duration": 90
+  },
+  {
+    "show_id": "s96",
+    "type": "TV Show",
+    "title": "The Circle",
+    "release_year": 2021,
+    "duration": 3
+  },
+  {
+    "show_id": "s97",
+    "type": "Movie",
+    "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+    "release_year": 2018,
+    "duration": 97
+  },
+  {
+    "show_id": "s98",
+    "type": "TV Show",
+    "title": "Kid Cosmic",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s99",
+    "type": "TV Show",
+    "title": "Octonauts: Above & Beyond",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s100",
+    "type": "TV Show",
+    "title": "On the Verge",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s101",
+    "type": "TV Show",
+    "title": "Tobot Galaxy Detectives",
+    "release_year": 2019,
+    "duration": 2
+  },
+  {
+    "show_id": "s102",
+    "type": "Movie",
+    "title": "Untold: Breaking Point",
+    "release_year": 2021,
+    "duration": 80
+  },
+  {
+    "show_id": "s103",
+    "type": "TV Show",
+    "title": "Countdown: Inspiration4 Mission to Space",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s104",
+    "type": "Movie",
+    "title": "Shadow Parties",
+    "release_year": 2020,
+    "duration": 117
+  },
+  {
+    "show_id": "s105",
+    "type": "TV Show",
+    "title": "Tayo the Little Bus",
+    "release_year": 2016,
+    "duration": 2
+  },
+  {
+    "show_id": "s106",
+    "type": "Movie",
+    "title": "Angamaly Diaries",
+    "release_year": 2017,
+    "duration": 128
+  },
+  {
+    "show_id": "s107",
+    "type": "TV Show",
+    "title": "Bunk'd",
+    "release_year": 2021,
+    "duration": 5
+  },
+  {
+    "show_id": "s108",
+    "type": "Movie",
+    "title": "A Champion Heart",
+    "release_year": 2018,
+    "duration": 90
+  },
+  {
+    "show_id": "s109",
+    "type": "TV Show",
+    "title": "Dive Club",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s110",
+    "type": "TV Show",
+    "title": "La casa de papel",
+    "release_year": 2021,
+    "duration": 5
+  },
+  {
+    "show_id": "s111",
+    "type": "TV Show",
+    "title": "Money Heist: From Tokyo to Berlin",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s112",
+    "type": "TV Show",
+    "title": "Sharkdog",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s113",
+    "type": "Movie",
+    "title": "Worth",
+    "release_year": 2021,
+    "duration": 119
+  },
+  {
+    "show_id": "s114",
+    "type": "Movie",
+    "title": "Afterlife of the Party",
+    "release_year": 2021,
+    "duration": 110
+  },
+  {
+    "show_id": "s115",
+    "type": "Movie",
+    "title": "Anjaam",
+    "release_year": 1994,
+    "duration": 143
+  },
+  {
+    "show_id": "s116",
+    "type": "Movie",
+    "title": "Bright Star",
+    "release_year": 2009,
+    "duration": 119
+  },
+  {
+    "show_id": "s117",
+    "type": "Movie",
+    "title": "Dhanak",
+    "release_year": 2015,
+    "duration": 114
+  },
+  {
+    "show_id": "s118",
+    "type": "Movie",
+    "title": "Final Account",
+    "release_year": 2021,
+    "duration": 94
+  },
+  {
+    "show_id": "s119",
+    "type": "Movie",
+    "title": "Gurgaon",
+    "release_year": 2017,
+    "duration": 106
+  },
+  {
+    "show_id": "s120",
+    "type": "Movie",
+    "title": "Here and There",
+    "release_year": 2020,
+    "duration": 99
+  },
+  {
+    "show_id": "s121",
+    "type": "TV Show",
+    "title": "Heroes of Goo Jit Zu",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s122",
+    "type": "TV Show",
+    "title": "Hotel Del Luna",
+    "release_year": 2019,
+    "duration": 1
+  },
+  {
+    "show_id": "s123",
+    "type": "Movie",
+    "title": "In the Cut",
+    "release_year": 2003,
+    "duration": 118
+  },
+  {
+    "show_id": "s124",
+    "type": "TV Show",
+    "title": "Luv Kushh",
+    "release_year": 2012,
+    "duration": 1
+  },
+  {
+    "show_id": "s125",
+    "type": "TV Show",
+    "title": "Pororo - The Little Penguin",
+    "release_year": 2013,
+    "duration": 3
+  },
+  {
+    "show_id": "s126",
+    "type": "TV Show",
+    "title": "Q-Force",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s127",
+    "type": "Movie",
+    "title": "Shikara",
+    "release_year": 2020,
+    "duration": 115
+  },
+  {
+    "show_id": "s128",
+    "type": "Movie",
+    "title": "A Cinderella Story",
+    "release_year": 2004,
+    "duration": 95
+  },
+  {
+    "show_id": "s129",
+    "type": "Movie",
+    "title": "Agatha Christie's Crooked House",
+    "release_year": 2017,
+    "duration": 115
+  },
+  {
+    "show_id": "s130",
+    "type": "Movie",
+    "title": "An Unfinished Life",
+    "release_year": 2005,
+    "duration": 108
+  },
+  {
+    "show_id": "s131",
+    "type": "Movie",
+    "title": "Barbie Big City Big Dreams",
+    "release_year": 2021,
+    "duration": 63
+  },
+  {
+    "show_id": "s132",
+    "type": "Movie",
+    "title": "Blade Runner: The Final Cut",
+    "release_year": 1982,
+    "duration": 117
+  },
+  {
+    "show_id": "s133",
+    "type": "TV Show",
+    "title": "Brave Animated Series",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s134",
+    "type": "Movie",
+    "title": "Chappie",
+    "release_year": 2015,
+    "duration": 121
+  },
+  {
+    "show_id": "s135",
+    "type": "Movie",
+    "title": "Clear and Present Danger",
+    "release_year": 1994,
+    "duration": 142
+  },
+  {
+    "show_id": "s136",
+    "type": "Movie",
+    "title": "Cliffhanger",
+    "release_year": 1993,
+    "duration": 113
+  },
+  {
+    "show_id": "s137",
+    "type": "Movie",
+    "title": "Cold Mountain",
+    "release_year": 2003,
+    "duration": 154
+  },
+  {
+    "show_id": "s138",
+    "type": "Movie",
+    "title": "Crocodile Dundee in Los Angeles",
+    "release_year": 2001,
+    "duration": 95
+  },
+  {
+    "show_id": "s139",
+    "type": "Movie",
+    "title": "Dear John",
+    "release_year": 2010,
+    "duration": 108
+  },
+  {
+    "show_id": "s140",
+    "type": "Movie",
+    "title": "Do the Right Thing",
+    "release_year": 1989,
+    "duration": 120
+  },
+  {
+    "show_id": "s141",
+    "type": "Movie",
+    "title": "El patrón, radiografía de un crimen",
+    "release_year": 2014,
+    "duration": 100
+  },
+  {
+    "show_id": "s142",
+    "type": "Movie",
+    "title": "Extraction",
+    "release_year": 2015,
+    "duration": 82
+  },
+  {
+    "show_id": "s143",
+    "type": "Movie",
+    "title": "Freedom Writers",
+    "release_year": 2007,
+    "duration": 124
+  },
+  {
+    "show_id": "s144",
+    "type": "Movie",
+    "title": "Green Lantern",
+    "release_year": 2011,
+    "duration": 114
+  },
+  {
+    "show_id": "s145",
+    "type": "Movie",
+    "title": "House Party",
+    "release_year": 1990,
+    "duration": 104
+  },
+  {
+    "show_id": "s146",
+    "type": "Movie",
+    "title": "House Party 2",
+    "release_year": 1991,
+    "duration": 94
+  },
+  {
+    "show_id": "s147",
+    "type": "Movie",
+    "title": "House Party 3",
+    "release_year": 1994,
+    "duration": 94
+  },
+  {
+    "show_id": "s148",
+    "type": "TV Show",
+    "title": "How to Be a Cowboy",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s149",
+    "type": "TV Show",
+    "title": "HQ Barbers",
+    "release_year": 2020,
+    "duration": 1
+  },
+  {
+    "show_id": "s150",
+    "type": "Movie",
+    "title": "I Got the Hook Up",
+    "release_year": 1998,
+    "duration": 93
+  },
+  {
+    "show_id": "s151",
+    "type": "Movie",
+    "title": "In Too Deep",
+    "release_year": 1999,
+    "duration": 97
+  },
+  {
+    "show_id": "s152",
+    "type": "Movie",
+    "title": "Initial D",
+    "release_year": 2005,
+    "duration": 109
+  },
+  {
+    "show_id": "s153",
+    "type": "Movie",
+    "title": "Janoskians: Untold and Untrue",
+    "release_year": 2016,
+    "duration": 88
+  },
+  {
+    "show_id": "s154",
+    "type": "TV Show",
+    "title": "Kid-E-Cats",
+    "release_year": 2016,
+    "duration": 2
+  },
+  {
+    "show_id": "s155",
+    "type": "TV Show",
+    "title": "Kuroko's Basketball",
+    "release_year": 2015,
+    "duration": 3
+  },
+  {
+    "show_id": "s156",
+    "type": "Movie",
+    "title": "Labyrinth",
+    "release_year": 1986,
+    "duration": 101
+  },
+  {
+    "show_id": "s157",
+    "type": "Movie",
+    "title": "Letters to Juliet",
+    "release_year": 2010,
+    "duration": 105
+  },
+  {
+    "show_id": "s158",
+    "type": "Movie",
+    "title": "Level 16",
+    "release_year": 2018,
+    "duration": 102
+  },
+  {
+    "show_id": "s159",
+    "type": "Movie",
+    "title": "Love Don't Cost a Thing",
+    "release_year": 2003,
+    "duration": 101
+  },
+  {
+    "show_id": "s160",
+    "type": "Movie",
+    "title": "Love in a Puff",
+    "release_year": 2010,
+    "duration": 103
+  },
+  {
+    "show_id": "s161",
+    "type": "TV Show",
+    "title": "Major Dad",
+    "release_year": 1992,
+    "duration": 4
+  },
+  {
+    "show_id": "s162",
+    "type": "Movie",
+    "title": "Mars Attacks!",
+    "release_year": 1996,
+    "duration": 106
+  },
+  {
+    "show_id": "s163",
+    "type": "Movie",
+    "title": "Marshall",
+    "release_year": 2017,
+    "duration": 118
+  },
+  {
+    "show_id": "s164",
+    "type": "Movie",
+    "title": "My Boss's Daughter",
+    "release_year": 2003,
+    "duration": 86
+  },
+  {
+    "show_id": "s165",
+    "type": "Movie",
+    "title": "Mystery Men",
+    "release_year": 1999,
+    "duration": 121
+  },
+  {
+    "show_id": "s166",
+    "type": "TV Show",
+    "title": "Oldsters",
+    "release_year": 2019,
+    "duration": 1
+  },
+  {
+    "show_id": "s167",
+    "type": "Movie",
+    "title": "Once Upon a Time in America",
+    "release_year": 1984,
+    "duration": 229
+  },
+  {
+    "show_id": "s168",
+    "type": "Movie",
+    "title": "Open  2",
+    "release_year": 2008,
+    "duration": 76
+  },
+  {
+    "show_id": "s169",
+    "type": "Movie",
+    "title": "Osmosis Jones",
+    "release_year": 2001,
+    "duration": 95
+  },
+  {
+    "show_id": "s170",
+    "type": "Movie",
+    "title": "Poseidon",
+    "release_year": 2006,
+    "duration": 98
+  },
+  {
+    "show_id": "s171",
+    "type": "Movie",
+    "title": "Rhyme & Reason",
+    "release_year": 1997,
+    "duration": 89
+  },
+  {
+    "show_id": "s172",
+    "type": "Movie",
+    "title": "Same Kind of Different as Me",
+    "release_year": 2017,
+    "duration": 120
+  },
+  {
+    "show_id": "s173",
+    "type": "Movie",
+    "title": "School of Rock",
+    "release_year": 2003,
+    "duration": 110
+  },
+  {
+    "show_id": "s174",
+    "type": "Movie",
+    "title": "Snervous Tyler Oakley",
+    "release_year": 2015,
+    "duration": 83
+  },
+  {
+    "show_id": "s175",
+    "type": "Movie",
+    "title": "Tears of the Sun",
+    "release_year": 2003,
+    "duration": 121
+  },
+  {
+    "show_id": "s176",
+    "type": "Movie",
+    "title": "The Blue Lagoon",
+    "release_year": 1980,
+    "duration": 105
+  },
+  {
+    "show_id": "s177",
+    "type": "Movie",
+    "title": "The Golden Child",
+    "release_year": 1986,
+    "duration": 94
+  },
+  {
+    "show_id": "s178",
+    "type": "Movie",
+    "title": "The Guns of Navarone",
+    "release_year": 1961,
+    "duration": 156
+  },
+  {
+    "show_id": "s179",
+    "type": "Movie",
+    "title": "The Interview",
+    "release_year": 2014,
+    "duration": 112
+  },
+  {
+    "show_id": "s180",
+    "type": "Movie",
+    "title": "The Nutty Professor",
+    "release_year": 1996,
+    "duration": 95
+  },
+  {
+    "show_id": "s181",
+    "type": "Movie",
+    "title": "The Nutty Professor II: The Klumps",
+    "release_year": 2000,
+    "duration": 107
+  },
+  {
+    "show_id": "s182",
+    "type": "TV Show",
+    "title": "Turning Point: 9/11 and the War on Terror",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s183",
+    "type": "Movie",
+    "title": "Welcome Home Roscoe Jenkins",
+    "release_year": 2008,
+    "duration": 114
+  },
+  {
+    "show_id": "s184",
+    "type": "Movie",
+    "title": "In the Line of Fire",
+    "release_year": 1993,
+    "duration": 129
+  },
+  {
+    "show_id": "s185",
+    "type": "TV Show",
+    "title": "Sparking Joy",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s186",
+    "type": "Movie",
+    "title": "Untold: Crime & Penalties",
+    "release_year": 2021,
+    "duration": 86
+  },
+  {
+    "show_id": "s187",
+    "type": "TV Show",
+    "title": "Hometown Cha-Cha-Cha",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s188",
+    "type": "TV Show",
+    "title": "The Ingenuity of the Househusband",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s189",
+    "type": "Movie",
+    "title": "2 Alone in Paris",
+    "release_year": 2008,
+    "duration": 97
+  },
+  {
+    "show_id": "s190",
+    "type": "TV Show",
+    "title": "Bread Barbershop",
+    "release_year": 2020,
+    "duration": 2
+  },
+  {
+    "show_id": "s191",
+    "type": "Movie",
+    "title": "Thimmarusu",
+    "release_year": 2021,
+    "duration": 125
+  },
+  {
+    "show_id": "s192",
+    "type": "Movie",
+    "title": "Wind River",
+    "release_year": 2017,
+    "duration": 107
+  },
+  {
+    "show_id": "s193",
+    "type": "Movie",
+    "title": "C Kkompany",
+    "release_year": 2008,
+    "duration": 127
+  },
+  {
+    "show_id": "s194",
+    "type": "TV Show",
+    "title": "D.P.",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s195",
+    "type": "TV Show",
+    "title": "Deadly Sins",
+    "release_year": 2002,
+    "duration": 1
+  },
+  {
+    "show_id": "s196",
+    "type": "Movie",
+    "title": "EMI: Liya Hai To Chukana Padega",
+    "release_year": 2008,
+    "duration": 128
+  },
+  {
+    "show_id": "s197",
+    "type": "Movie",
+    "title": "He's All That",
+    "release_year": 2021,
+    "duration": 92
+  },
+  {
+    "show_id": "s198",
+    "type": "TV Show",
+    "title": "I Heart Arlo",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s199",
+    "type": "TV Show",
+    "title": "King of Boys: The Return of the King",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s200",
+    "type": "Movie",
+    "title": "Koi Aap Sa",
+    "release_year": 2006,
+    "duration": 135
+  },
+  {
+    "show_id": "s201",
+    "type": "Movie",
+    "title": "Krishna Cottage",
+    "release_year": 2004,
+    "duration": 124
+  },
+  {
+    "show_id": "s202",
+    "type": "Movie",
+    "title": "Kucch To Hai",
+    "release_year": 2003,
+    "duration": 136
+  },
+  {
+    "show_id": "s203",
+    "type": "Movie",
+    "title": "Kyaa Kool Hai Hum",
+    "release_year": 2005,
+    "duration": 165
+  },
+  {
+    "show_id": "s204",
+    "type": "Movie",
+    "title": "Kyaa Kool Hain Hum 3",
+    "release_year": 2016,
+    "duration": 124
+  },
+  {
+    "show_id": "s205",
+    "type": "Movie",
+    "title": "Kyaa Super Kool Hain Hum",
+    "release_year": 2012,
+    "duration": 136
+  },
+  {
+    "show_id": "s206",
+    "type": "Movie",
+    "title": "Kyo Kii... Main Jhuth Nahin Bolta",
+    "release_year": 2001,
+    "duration": 150
+  },
+  {
+    "show_id": "s207",
+    "type": "Movie",
+    "title": "LSD: Love, Sex Aur Dhokha",
+    "release_year": 2010,
+    "duration": 112
+  },
+  {
+    "show_id": "s208",
+    "type": "Movie",
+    "title": "Mission Istaanbul: Darr Ke Aagey Jeet Hai",
+    "release_year": 2008,
+    "duration": 119
+  },
+  {
+    "show_id": "s209",
+    "type": "Movie",
+    "title": "Once Upon a Time in Mumbaai",
+    "release_year": 2010,
+    "duration": 133
+  },
+  {
+    "show_id": "s210",
+    "type": "Movie",
+    "title": "Once Upon a Time in Mumbai Dobaara!",
+    "release_year": 2013,
+    "duration": 142
+  },
+  {
+    "show_id": "s211",
+    "type": "Movie",
+    "title": "Ragini MMS",
+    "release_year": 2011,
+    "duration": 93
+  },
+  {
+    "show_id": "s212",
+    "type": "Movie",
+    "title": "Ragini MMS 2",
+    "release_year": 2014,
+    "duration": 113
+  },
+  {
+    "show_id": "s213",
+    "type": "TV Show",
+    "title": "Rebellion",
+    "release_year": 2016,
+    "duration": 2
+  },
+  {
+    "show_id": "s214",
+    "type": "TV Show",
+    "title": "RIDE ON TIME",
+    "release_year": 2021,
+    "duration": 3
+  },
+  {
+    "show_id": "s215",
+    "type": "Movie",
+    "title": "SAS: Rise of the Black Swan",
+    "release_year": 2021,
+    "duration": 124
+  },
+  {
+    "show_id": "s216",
+    "type": "Movie",
+    "title": "Shootout at Lokhandwala",
+    "release_year": 2007,
+    "duration": 116
+  },
+  {
+    "show_id": "s217",
+    "type": "Movie",
+    "title": "Shor In the City",
+    "release_year": 2011,
+    "duration": 106
+  },
+  {
+    "show_id": "s218",
+    "type": "Movie",
+    "title": "The Dirty Picture",
+    "release_year": 2011,
+    "duration": 145
+  },
+  {
+    "show_id": "s219",
+    "type": "TV Show",
+    "title": "Titletown High",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s220",
+    "type": "TV Show",
+    "title": "EDENS ZERO",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s221",
+    "type": "TV Show",
+    "title": "Family Reunion",
+    "release_year": 2021,
+    "duration": 4
+  },
+  {
+    "show_id": "s222",
+    "type": "Movie",
+    "title": "Bob Ross: Happy Accidents, Betrayal & Greed",
+    "release_year": 2021,
+    "duration": 93
+  },
+  {
+    "show_id": "s223",
+    "type": "TV Show",
+    "title": "Clickbait",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s224",
+    "type": "TV Show",
+    "title": "John of God: The Crimes of a Spiritual Healer",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s225",
+    "type": "TV Show",
+    "title": "Motel Makeover",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s226",
+    "type": "TV Show",
+    "title": "Open Your Eyes",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s227",
+    "type": "TV Show",
+    "title": "Post Mortem: No One Dies in Skarnes",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s228",
+    "type": "Movie",
+    "title": "Really Love",
+    "release_year": 2020,
+    "duration": 95
+  },
+  {
+    "show_id": "s229",
+    "type": "Movie",
+    "title": "The November Man",
+    "release_year": 2014,
+    "duration": 108
+  },
+  {
+    "show_id": "s230",
+    "type": "Movie",
+    "title": "The Old Ways",
+    "release_year": 2020,
+    "duration": 90
+  },
+  {
+    "show_id": "s231",
+    "type": "Movie",
+    "title": "The River Runner",
+    "release_year": 2021,
+    "duration": 86
+  },
+  {
+    "show_id": "s232",
+    "type": "Movie",
+    "title": "The Water Man",
+    "release_year": 2021,
+    "duration": 92
+  },
+  {
+    "show_id": "s233",
+    "type": "TV Show",
+    "title": "Wheel of Fortune",
+    "release_year": 2019,
+    "duration": 3
+  },
+  {
+    "show_id": "s234",
+    "type": "Movie",
+    "title": "Count Me In",
+    "release_year": 2021,
+    "duration": 82
+  },
+  {
+    "show_id": "s235",
+    "type": "TV Show",
+    "title": "Oggy Oggy",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s236",
+    "type": "Movie",
+    "title": "Untold: Caitlyn Jenner",
+    "release_year": 2021,
+    "duration": 70
+  },
+  {
+    "show_id": "s237",
+    "type": "Movie",
+    "title": "Boomika",
+    "release_year": 2021,
+    "duration": 122
+  },
+  {
+    "show_id": "s238",
+    "type": "Movie",
+    "title": "Boomika (Hindi)",
+    "release_year": 2021,
+    "duration": 122
+  },
+  {
+    "show_id": "s239",
+    "type": "Movie",
+    "title": "Boomika (Malayalam)",
+    "release_year": 2021,
+    "duration": 122
+  },
+  {
+    "show_id": "s240",
+    "type": "Movie",
+    "title": "Boomika (Telugu)",
+    "release_year": 2021,
+    "duration": 122
+  },
+  {
+    "show_id": "s241",
+    "type": "Movie",
+    "title": "The Witcher: Nightmare of the Wolf",
+    "release_year": 2021,
+    "duration": 84
+  },
+  {
+    "show_id": "s242",
+    "type": "TV Show",
+    "title": "Manifest",
+    "release_year": 2021,
+    "duration": 3
+  },
+  {
+    "show_id": "s243",
+    "type": "TV Show",
+    "title": "Comedy Premium League",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s244",
+    "type": "TV Show",
+    "title": "Everything Will Be Fine",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s245",
+    "type": "Movie",
+    "title": "Gunshot",
+    "release_year": 2018,
+    "duration": 96
+  },
+  {
+    "show_id": "s246",
+    "type": "TV Show",
+    "title": "Korean Cold Noodle Rhapsody",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s247",
+    "type": "Movie",
+    "title": "Man in Love",
+    "release_year": 2021,
+    "duration": 115
+  },
+  {
+    "show_id": "s248",
+    "type": "Movie",
+    "title": "Sweet Girl",
+    "release_year": 2021,
+    "duration": 110
+  },
+  {
+    "show_id": "s249",
+    "type": "TV Show",
+    "title": "The Chair",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s250",
+    "type": "Movie",
+    "title": "The Loud House Movie",
+    "release_year": 2021,
+    "duration": 88
+  },
+  {
+    "show_id": "s251",
+    "type": "Movie",
+    "title": "A Faraway Land",
+    "release_year": 2020,
+    "duration": 102
+  },
+  {
+    "show_id": "s252",
+    "type": "Movie",
+    "title": "Like Crazy",
+    "release_year": 2011,
+    "duration": 91
+  },
+  {
+    "show_id": "s253",
+    "type": "Movie",
+    "title": "Black Island",
+    "release_year": 2021,
+    "duration": 105
+  },
+  {
+    "show_id": "s254",
+    "type": "Movie",
+    "title": "Bombay",
+    "release_year": 1995,
+    "duration": 135
+  },
+  {
+    "show_id": "s255",
+    "type": "TV Show",
+    "title": "Go! Go! Cory Carson",
+    "release_year": 2021,
+    "duration": 5
+  },
+  {
+    "show_id": "s256",
+    "type": "Movie",
+    "title": "Memories of a Murderer: The Nilsen Tapes",
+    "release_year": 2021,
+    "duration": 86
+  },
+  {
+    "show_id": "s257",
+    "type": "Movie",
+    "title": "Nneka The Pretty Serpent",
+    "release_year": 2020,
+    "duration": 140
+  },
+  {
+    "show_id": "s258",
+    "type": "Movie",
+    "title": "O Kadhal Kanmani",
+    "release_year": 2015,
+    "duration": 133
+  },
+  {
+    "show_id": "s259",
+    "type": "Movie",
+    "title": "Out of my league",
+    "release_year": 2020,
+    "duration": 92
+  },
+  {
+    "show_id": "s260",
+    "type": "Movie",
+    "title": "Pahuna",
+    "release_year": 2018,
+    "duration": 82
+  },
+  {
+    "show_id": "s261",
+    "type": "TV Show",
+    "title": "The Defeated",
+    "release_year": 2020,
+    "duration": 1
+  },
+  {
+    "show_id": "s262",
+    "type": "Movie",
+    "title": "The Secret Diary of an Exchange Student",
+    "release_year": 2021,
+    "duration": 97
+  },
+  {
+    "show_id": "s263",
+    "type": "Movie",
+    "title": "Untold: Deal With the Devil",
+    "release_year": 2021,
+    "duration": 78
+  },
+  {
+    "show_id": "s264",
+    "type": "TV Show",
+    "title": "Mother Goose Club",
+    "release_year": 2016,
+    "duration": 2
+  },
+  {
+    "show_id": "s265",
+    "type": "Movie",
+    "title": "Walk of Shame",
+    "release_year": 2014,
+    "duration": 94
+  },
+  {
+    "show_id": "s266",
+    "type": "TV Show",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "release_year": 2018,
+    "duration": 1
+  },
+  {
+    "show_id": "s267",
+    "type": "TV Show",
+    "title": "The Creative Indians",
+    "release_year": 2020,
+    "duration": 1
+  },
+  {
+    "show_id": "s268",
+    "type": "Movie",
+    "title": "The Piano",
+    "release_year": 1993,
+    "duration": 121
+  },
+  {
+    "show_id": "s269",
+    "type": "Movie",
+    "title": "Unroyal",
+    "release_year": 2020,
+    "duration": 97
+  },
+  {
+    "show_id": "s270",
+    "type": "TV Show",
+    "title": "Winx Club",
+    "release_year": 2015,
+    "duration": 2
+  },
+  {
+    "show_id": "s271",
+    "type": "Movie",
+    "title": "Beckett",
+    "release_year": 2021,
+    "duration": 110
+  },
+  {
+    "show_id": "s272",
+    "type": "TV Show",
+    "title": "Brand New Cherry Flavor",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s273",
+    "type": "TV Show",
+    "title": "Fast & Furious Spy Racers",
+    "release_year": 2021,
+    "duration": 5
+  },
+  {
+    "show_id": "s274",
+    "type": "TV Show",
+    "title": "Gone for Good",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s275",
+    "type": "TV Show",
+    "title": "Grace and Frankie",
+    "release_year": 2021,
+    "duration": 7
+  },
+  {
+    "show_id": "s276",
+    "type": "TV Show",
+    "title": "The Kingdom",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s277",
+    "type": "TV Show",
+    "title": "Valeria",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s278",
+    "type": "TV Show",
+    "title": "AlRawabi School for Girls",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s279",
+    "type": "Movie",
+    "title": "Lokillo: Nothing's the Same",
+    "release_year": 2021,
+    "duration": 64
+  },
+  {
+    "show_id": "s280",
+    "type": "Movie",
+    "title": "Monster Hunter: Legends of the Guild",
+    "release_year": 2021,
+    "duration": 59
+  },
+  {
+    "show_id": "s281",
+    "type": "TV Show",
+    "title": "Bake Squad",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s282",
+    "type": "Movie",
+    "title": "Brother Jekwu",
+    "release_year": 2016,
+    "duration": 101
+  },
+  {
+    "show_id": "s283",
+    "type": "Movie",
+    "title": "La diosa del asfalto",
+    "release_year": 2020,
+    "duration": 127
+  },
+  {
+    "show_id": "s284",
+    "type": "Movie",
+    "title": "Misha and the Wolves",
+    "release_year": 2021,
+    "duration": 90
+  },
+  {
+    "show_id": "s285",
+    "type": "Movie",
+    "title": "The Kissing Booth 3",
+    "release_year": 2021,
+    "duration": 114
+  },
+  {
+    "show_id": "s286",
+    "type": "Movie",
+    "title": "The Railway Man",
+    "release_year": 2013,
+    "duration": 108
+  },
+  {
+    "show_id": "s287",
+    "type": "TV Show",
+    "title": "Gabby's Dollhouse",
+    "release_year": 2021,
+    "duration": 2
+  },
+  {
+    "show_id": "s288",
+    "type": "TV Show",
+    "title": "I Need Romance",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s289",
+    "type": "TV Show",
+    "title": "Las muñecas de la mafia",
+    "release_year": 2018,
+    "duration": 1
+  },
+  {
+    "show_id": "s290",
+    "type": "TV Show",
+    "title": "The Crowned Clown",
+    "release_year": 2019,
+    "duration": 1
+  },
+  {
+    "show_id": "s291",
+    "type": "Movie",
+    "title": "Untold: Malice at the Palace",
+    "release_year": 2021,
+    "duration": 70
+  },
+  {
+    "show_id": "s292",
+    "type": "TV Show",
+    "title": "SHAMAN KING",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s293",
+    "type": "Movie",
+    "title": "Quartet",
+    "release_year": 2012,
+    "duration": 98
+  },
+  {
+    "show_id": "s294",
+    "type": "Movie",
+    "title": "Slay",
+    "release_year": 2021,
+    "duration": 86
+  },
+  {
+    "show_id": "s295",
+    "type": "Movie",
+    "title": "Takizawa Kabuki ZERO 2020 The Movie",
+    "release_year": 2020,
+    "duration": 139
+  },
+  {
+    "show_id": "s296",
+    "type": "Movie",
+    "title": "The Paper Tigers",
+    "release_year": 2021,
+    "duration": 111
+  },
+  {
+    "show_id": "s297",
+    "type": "TV Show",
+    "title": "Hit & Run",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s298",
+    "type": "TV Show",
+    "title": "Navarasa",
+    "release_year": 2021,
+    "duration": 1
+  },
+  {
+    "show_id": "s299",
+    "type": "Movie",
+    "title": "Quam's Money",
+    "release_year": 2020,
+    "duration": 115
+  }
+]
