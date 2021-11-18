@@ -1,5 +1,3 @@
-
-
 const netflixdata = 
   {
     name: 'Netflix',
@@ -50,8 +48,32 @@ const netflixdata =
       },
     ],
   };
+//console.log(netflixdata);
 
-console.log(netflixdata);
+
+//load json file
+const dataSet = d3.json('./assets/netflix.json');
+console.log(dataSet);
+
+
+//arrays for dataconstruction
+let sizeArray = [];
+let yearArray = [];
+let typeArray = [];
+
+//objectBuilderSize function
+function objectBuilderSize(item, index) {
+ 
+}
+
+//iterate through data and generate sizeArray --> object builder --> name, size
+//for (let i = 0, jsonData.length, i++) {
+
+//;}
+
+//iterate through data and generate yearArray --> object builder --> name, children (objects from sizeArray)
+
+//iterate through data and generate typeArray --> object builder --> name, children (objects from yearArray)
 
 /* ideas on how to load in the json dataset and modify it to make it work for the required datastructure
 let typeArray = [];
